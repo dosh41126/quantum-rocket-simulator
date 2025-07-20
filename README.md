@@ -127,8 +127,7 @@ PRs and issues are welcome!
 ---
 
 ## 📄 License
-
-MIT License (or your license here)
+GPL3
 
 ---
 
