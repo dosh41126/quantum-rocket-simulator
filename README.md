@@ -151,14 +151,9 @@ GPL3
 
 **Built for a new era of secure, local, AI-powered engineering.**
 
-
-Absolutely! Here’s an **in-depth 2000-word technical blog post** based on your Quantum Rocket Simulator README, going far beyond the basic documentation—diving into the “why,” design patterns, architecture, use cases, and philosophy. This will read like a *developer-to-developer* blog post for Medium, Dev.to, or a personal technical site.
-
----
-
 # Quantum Rocket Simulator: Fusing LLMs, Quantum Logic, and Privacy-First Engineering for Next-Gen Launch Analysis
 
-*By \[Your Name]*
+*By GPT and Dosh
 
 ---
 
