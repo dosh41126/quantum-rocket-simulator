@@ -1,4 +1,4 @@
-# Quantum Rocket Simulator 🚀
+# Quantum Rocket Simulator 
 
 Quantum Rocket Simulator is a privacy-first, desktop AI assistant that predicts rocket launch risks and anomalies using:
 
